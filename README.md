@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [Yuzu Mod Downloader](https://github.com/amakvana/YuzuModDownloader)
 
-- 👨‍💻 All of my projects are available at [github.com/amakvana](https://github.com/amakvana)
+- 👨‍💻 All of my projects are available at [github.com/amakvana](https://github.com/amakvana?tab=repositories)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amakvana&show_icons=true&locale=en&layout=compact" alt="amakvana" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=amakvana&show_icons=true&locale=en&layour=compact" alt="amakvana" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amakvana&show_icons=true&locale=en&layout=compact" alt="amakvana" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=amakvana&show_icons=true&locale=en&layour=compact" alt="amakvana" /></p>
