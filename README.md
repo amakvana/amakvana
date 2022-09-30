@@ -5,4 +5,4 @@
 
 - 👨‍💻 All of my projects are available at [github.com/amakvana](https://github.com/amakvana?tab=repositories)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amakvana&theme=dark&show_icons=true&locale=en&layout=compact" alt="amakvana" /><br><img src="https://github-readme-stats.vercel.app/api?username=amakvana&theme=dark&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide_title=true" alt="amakvana" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amakvana&theme=dark&show_icons=true&locale=en&layout=compact" alt="amakvana" /><img src="https://github-readme-stats.vercel.app/api?username=amakvana&theme=dark&show_icons=true&locale=en&include_all_commits=true&hide_title=true&layout=compact" alt="amakvana" /></p>
